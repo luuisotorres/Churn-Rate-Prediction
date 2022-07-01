@@ -17,7 +17,7 @@ In this project, I did an exploratory data analysis on a Telco dataset to find w
 
 # Kaggle
 
-This notebook is also on Kaggle, where plotly plots are interactive, so I highly recommend you taking a loot at <a src = "https://www.kaggle.com/code/lusfernandotorres/exploratory-data-analysis-and-churn-prediction">Clickin here</a>.
+This notebook is also on Kaggle, where plotly plots are interactive, so I highly recommend you taking a look at it <a html = "https://www.kaggle.com/code/lusfernandotorres/exploratory-data-analysis-and-churn-prediction">Clickin here</a>.
 
 ---
 
